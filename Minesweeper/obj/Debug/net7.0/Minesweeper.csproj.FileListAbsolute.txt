@@ -1,0 +1,14 @@
+C:\Users\chris\Downloads\SE - Assigment - Minesweeper\Minesweeper\bin\Debug\net7.0\Minesweeper.exe
+C:\Users\chris\Downloads\SE - Assigment - Minesweeper\Minesweeper\bin\Debug\net7.0\Minesweeper.deps.json
+C:\Users\chris\Downloads\SE - Assigment - Minesweeper\Minesweeper\bin\Debug\net7.0\Minesweeper.runtimeconfig.json
+C:\Users\chris\Downloads\SE - Assigment - Minesweeper\Minesweeper\bin\Debug\net7.0\Minesweeper.dll
+C:\Users\chris\Downloads\SE - Assigment - Minesweeper\Minesweeper\bin\Debug\net7.0\Minesweeper.pdb
+C:\Users\chris\Downloads\SE - Assigment - Minesweeper\Minesweeper\obj\Debug\net7.0\Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Downloads\SE - Assigment - Minesweeper\Minesweeper\obj\Debug\net7.0\Minesweeper.AssemblyInfoInputs.cache
+C:\Users\chris\Downloads\SE - Assigment - Minesweeper\Minesweeper\obj\Debug\net7.0\Minesweeper.AssemblyInfo.cs
+C:\Users\chris\Downloads\SE - Assigment - Minesweeper\Minesweeper\obj\Debug\net7.0\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\chris\Downloads\SE - Assigment - Minesweeper\Minesweeper\obj\Debug\net7.0\Minesweeper.dll
+C:\Users\chris\Downloads\SE - Assigment - Minesweeper\Minesweeper\obj\Debug\net7.0\refint\Minesweeper.dll
+C:\Users\chris\Downloads\SE - Assigment - Minesweeper\Minesweeper\obj\Debug\net7.0\Minesweeper.pdb
+C:\Users\chris\Downloads\SE - Assigment - Minesweeper\Minesweeper\obj\Debug\net7.0\Minesweeper.genruntimeconfig.cache
+C:\Users\chris\Downloads\SE - Assigment - Minesweeper\Minesweeper\obj\Debug\net7.0\ref\Minesweeper.dll

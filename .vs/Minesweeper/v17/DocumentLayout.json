@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chris\\Downloads\\SE - Assigment - Minesweeper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FADDCA7F-3F75-4AE9-BCB1-69F91FE0E36E}|Minesweeper\\Minesweeper.csproj|c:\\users\\chris\\downloads\\se - assigment - minesweeper\\minesweeper\\minesweeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADDCA7F-3F75-4AE9-BCB1-69F91FE0E36E}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\minesweeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0F0A05-27C5-400A-B357-812EB695FBC9}|MinesweeperTest\\MinesweeperTest.csproj|c:\\users\\chris\\downloads\\se - assigment - minesweeper\\minesweepertest\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0F0A05-27C5-400A-B357-812EB695FBC9}|MinesweeperTest\\MinesweeperTest.csproj|solutionrelative:minesweepertest\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADDCA7F-3F75-4AE9-BCB1-69F91FE0E36E}|Minesweeper\\Minesweeper.csproj|c:\\users\\chris\\downloads\\se - assigment - minesweeper\\minesweeper\\minefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADDCA7F-3F75-4AE9-BCB1-69F91FE0E36E}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\minefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADDCA7F-3F75-4AE9-BCB1-69F91FE0E36E}|Minesweeper\\Minesweeper.csproj|c:\\users\\chris\\downloads\\se - assigment - minesweeper\\minesweeper\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADDCA7F-3F75-4AE9-BCB1-69F91FE0E36E}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADDCA7F-3F75-4AE9-BCB1-69F91FE0E36E}|Minesweeper\\Minesweeper.csproj|c:\\users\\chris\\downloads\\se - assigment - minesweeper\\minesweeper\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADDCA7F-3F75-4AE9-BCB1-69F91FE0E36E}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADDCA7F-3F75-4AE9-BCB1-69F91FE0E36E}|Minesweeper\\Minesweeper.csproj|c:\\users\\chris\\downloads\\se - assigment - minesweeper\\minesweeper\\gameoverexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADDCA7F-3F75-4AE9-BCB1-69F91FE0E36E}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\gameoverexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameOverException.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Downloads\\SE - Assigment - Minesweeper\\Minesweeper\\GameOverException.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\GameOverException.cs",
+              "ToolTip": "C:\\Users\\chris\\Downloads\\SE - Assigment - Minesweeper\\Minesweeper\\GameOverException.cs",
+              "RelativeToolTip": "Minesweeper\\GameOverException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:02:09.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Downloads\\SE - Assigment - Minesweeper\\Minesweeper\\Location.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\Location.cs",
+              "ToolTip": "C:\\Users\\chris\\Downloads\\SE - Assigment - Minesweeper\\Minesweeper\\Location.cs",
+              "RelativeToolTip": "Minesweeper\\Location.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:35:51.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Downloads\\SE - Assigment - Minesweeper\\Minesweeper\\Field.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\Field.cs",
+              "ToolTip": "C:\\Users\\chris\\Downloads\\SE - Assigment - Minesweeper\\Minesweeper\\Field.cs",
+              "RelativeToolTip": "Minesweeper\\Field.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:13:39.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Minesweeper.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Downloads\\SE - Assigment - Minesweeper\\Minesweeper\\Minesweeper.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\Minesweeper.cs",
+              "ToolTip": "C:\\Users\\chris\\Downloads\\SE - Assigment - Minesweeper\\Minesweeper\\Minesweeper.cs",
+              "RelativeToolTip": "Minesweeper\\Minesweeper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:58:02.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Minefield.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Downloads\\SE - Assigment - Minesweeper\\Minesweeper\\Minefield.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\Minefield.cs",
+              "ToolTip": "C:\\Users\\chris\\Downloads\\SE - Assigment - Minesweeper\\Minesweeper\\Minefield.cs",
+              "RelativeToolTip": "Minesweeper\\Minefield.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAewIkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:57:57.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Downloads\\SE - Assigment - Minesweeper\\MinesweeperTest\\Tests.cs",
+              "RelativeDocumentMoniker": "MinesweeperTest\\Tests.cs",
+              "ToolTip": "C:\\Users\\chris\\Downloads\\SE - Assigment - Minesweeper\\MinesweeperTest\\Tests.cs",
+              "RelativeToolTip": "MinesweeperTest\\Tests.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAnwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:57:44.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
